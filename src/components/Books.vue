@@ -62,7 +62,8 @@
             </div>
             
             <p class="text-center text-muted small mb-3">
-                Poslední aktualizace děl: {{ last_update }}
+                Poslední aktualizace děl: {{ last_update }}.
+                <a href="https://github.com/harabisj/maturitni-cetba" class="ms-3 text-muted text-decoration-none">Available on GitHub.</a>
             </p>
         </div>
         
