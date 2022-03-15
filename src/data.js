@@ -6,7 +6,7 @@ export const groups = {
         minimum: 2,
     },
     2: {
-        title: 'Světová a česká literatura 19. století',
+        title: 'Světová a česká literatura do konce 19. století',
         minimum: 3,
     },
     3: {
