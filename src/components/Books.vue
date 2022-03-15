@@ -102,7 +102,7 @@
         <div ref="pdf" style="display: none">
             <div style="font-family: 'Calibri'">
                 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-                    <h5 style="width: 60%; text-align: center">GYMNÁZIUM A STŘEDNÍ PRŮMYSLOVÁ ŠKOLA ELEKTROTECHNIKY A INFORMATIKY, FRENŠTÁT POD RADHOŠTĚM, PŘÍSPĚVKOVÁ ORGANIZACE</h5>
+                    <h5 style="text-align: center">GYMNÁZIUM <br> A STŘEDNÍ PRŮMYSLOVÁ ŠKOLA ELEKTROTECHNIKY A INFORMATIKY, <br> FRENŠTÁT POD RADHOŠTĚM, PŘÍSPĚVKOVÁ ORGANIZACE</h5>
                     
                     <h3 style="margin-bottom: 1.5rem">Seznam literárních děl k ústní zkoušce z českého jazyka a literatury</h3>
                     
