@@ -121,7 +121,7 @@
                     <p><b><u>{{ group.title }}</u></b></p>
                     <ol :start="Object.keys(groups).filter(g => g < gi).map(g => getGroupSelection(g).length).reduce((a, b) => a + b, 0) + 1">
                         <li v-for="(book, bi) in getGroupSelection(gi)" :key="bi">
-                            {{ book.author ? book.author + ' - ' + book.name : book.name }}
+                            {{ book.author ? book.author + ' –⁠⁠ ' + book.name : book.name }}
                         </li>
                     </ol>
                 </div>
